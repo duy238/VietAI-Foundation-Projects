@@ -1,5 +1,7 @@
 # VietAI Foundation Class Projects
 
+Projects on the VietAI Foundation Course
+
 Project 1: Logistic Regression and Softmax Regression
 
 Project 2: Deep Neural Network
